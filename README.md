@@ -1,2 +1,0 @@
-# Autoclick
-Lanh yeu diep
